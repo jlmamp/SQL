@@ -1,4 +1,4 @@
-# Unit 9: SQL
+ SQL
 
 ## Objectives
 
